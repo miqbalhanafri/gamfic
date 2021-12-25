@@ -1,5 +1,5 @@
 <?php 
-//koneksi ke database
+//koneksi ke database by Muhammad Iqbal Hanafri
 $conn = mysqli_connect("localhost", "root", "", "gamfic");
 
 // function ini menerima query dari halaman lain
